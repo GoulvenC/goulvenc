@@ -1,7 +1,5 @@
 # Bienvenue sur mon profil Github 👋
 
-> **Note :** Ce répo et ce document ont été réalisés en prévision d'une feature de Github encore en développement, plus d'information sur [ce compte twitter](https://twitter.com/pifafu/status/1265773172520914944)
-
 ## A propos de moi 💁‍
 Je m'apelle Goulven CLEC'H, j'ai 22 ans et habite Toulouse. Actuellement en formation chez OpenClassrooms, je me spécialise dans l'écosystème JavaScript et suis actuellement à la recherche d'une opportunité d'alternance en contrat pro (4 jours par semaine en entreprise, 1 jour en formation).
 
