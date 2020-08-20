@@ -4,6 +4,8 @@ Je m'appelle Goulven CLEC'H, j'ai 22 ans et suis Toulousain. Actuellement en for
 
 Sur mon temps libre j'aime bidouiller mon PC (vous pouvez jeter un oeil à mes [dotfiles](https://github.com/GoulvenC/dotfiles)), mais je suis également passionné par les vêtements (notamment vintage), la cuisine végétarienne et les enjeux écologiques.
 
+N'hésitez pas à jeter un oeil aux profils de mes copains : [Erika](https://github.com/Princesseuh), [Aurélien](https://github.com/aureliendossantos), [Nolwenn](https://github.com/NolwennDeumie) et [Xavier](https://github.com/xvw).
+
 ## Mes projets : 
 
 🎮 Avec des amis, j’ai co-fondé l’association [Game Dev Alliance](https://gamedevalliance.fr/), devenue une des plus grosses communautés de créateurs de jeux vidéos en France. Je participe à la création des sites webs, à la modération du [wiki](https://wiki.gamedevalliance.fr/) et de notre [serveur Discord](https://discord.gg/RrBppaj), ainsi qu'à l'écriture des vidéos pour notre [chaîne Youtube](https://www.youtube.com/user/FoxFiesta40).
