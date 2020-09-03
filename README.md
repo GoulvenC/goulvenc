@@ -4,7 +4,7 @@ Je m'appelle Goulven CLEC'H, j'ai 22 ans et suis Toulousain. Actuellement en for
 
 Sur mon temps libre j'aime bidouiller mon PC (vous pouvez jeter un oeil à mes [dotfiles](https://github.com/GoulvenC/dotfiles)), mais je suis également passionné par les vêtements (notamment vintage), la cuisine végétarienne et les enjeux écologiques.
 
-N'hésitez pas à jeter un oeil aux profils de mes copains : [Erika](https://github.com/Princesseuh), [Aurélien](https://github.com/aureliendossantos), [Nolwenn](https://github.com/NolwennDeumie) et [Xavier](https://github.com/xvw).
+N'hésitez pas à jeter un oeil aux profils de mes copains : [Erika](https://github.com/Princesseuh), [Aurélien](https://github.com/aureliendossantos) et [Xavier](https://github.com/xvw).
 
 ## Mes projets : 
 
