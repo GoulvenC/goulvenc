@@ -8,11 +8,11 @@ N'hésitez pas à jeter un oeil aux profils de mes copains : [Erika](https://git
 
 ## Mes projets : 
 
-🎮 Avec des amis, j’ai co-fondé l’association [Game Dev Alliance](https://gamedevalliance.fr/), devenue une des plus grosses communautés de créateurs de jeux vidéos en France. Je participe à la création des sites webs, à la modération du [wiki](https://wiki.gamedevalliance.fr/) et de notre [serveur Discord](https://discord.gg/RrBppaj), ainsi qu'à l'écriture des vidéos pour notre [chaîne Youtube](https://www.youtube.com/user/FoxFiesta40).
+🎮 Avec des amis, j’ai co-fondé l’association [Game Dev Alliance](https://gamedevalliance.fr/), devenue une des plus grosses communautés de créateurs de jeux vidéos en France. Je participe à la création des sites webs, notamment au site de formation collaboratif [FaireDesJeux.fr](https://fairedesjeux.fr), à la modération du [wiki](https://wiki.gamedevalliance.fr/) et de notre [serveur Discord](https://discord.gg/RrBppaj), ainsi qu'à l'écriture des vidéos pour notre [chaîne Youtube](https://www.youtube.com/user/FoxFiesta40).
 
-📝 J'écris des articles de blog sur mon [site personnel](https://goulven-clech.dev/) pour y parler de mon travail, de mes expériences sur de nouvelles technologies, mais aussi (pourquoi pas) sur mes différentes passions et projets.
+🌞 Je travaille également sur un projet de site de vulgarisation scientifique sur les problématiques écologiques. Le projet est encore un embryon mais vous pouvez suivre [les avancées sur Github](https://github.com/PseudoEcologie/PseudoEcologie.org).
 
-🌞 Je travaille également sur un projet de petit site de vulgarisation sur des problématiques écologiques méconnues. Stay tuned !
+📝 J'écris des articles de blog sur mon [site personnel](https://goulven-clech.dev/) pour y parler de mon travail, de mes expériences sur de nouvelles technologies, mais aussi (pourquoi pas) de mes différentes passions et projets.
 
 ## Mes réseaux :
 
