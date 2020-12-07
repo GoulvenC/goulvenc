@@ -19,7 +19,7 @@ Passionné par les fringues vintages, la cuisine végétarienne et les enjeux é
 
 ## Vous pouvez me retrouver...
 
-Sur [Twitter](https://www.linkedin.com/in/goulvenc/), [LinkedIn](https://www.linkedin.com/in/goulvenc/), [mon site perso](https://goulven-clech.dev/) ou [par mail](mailto:goulven.clech@protonmail.com) !
+Sur [mon site perso](https://goulven-clech.dev/), [Twitter](https://twitter.com/GoulvenClech) et [LinkedIn](https://www.linkedin.com/in/goulvenc/).
 
 Enfin, n'hésitez pas à jeter un oeil aux profils de mes copains : [Erika](https://github.com/Princesseuh), [Coralie](https://github.com/coraliedubreuil), [Aurélien](https://github.com/aureliendossantos) et [Xavier](https://github.com/xvw).
 
