@@ -1,26 +1,17 @@
-# 👋👋👋
+## Salut 👋
 
-Je m'appelle Goulven CLEC'H, 23 ans, développeur web sur Toulouse.
+#  Je suis Goulven CLEC'H
 
-Particulièrement intéréssé par les problèmatiques de réactivité et d'accesibilité, je me forme à la programation fonctionnelle et au développement front end.
+Développeur full stack vivant à Toulouse, en France. Intéressé par la programmation fonctionelle, Vue JS et Linux.
 
-Passionné par les fringues vintages, la cuisine végétarienne et les enjeux écologiques... Je suis également utilisateur de Linux depuis de nombreuses années ([mes dotfiles](https://github.com/GoulvenC/dotfiles)).
+Je travaille actuellement sur :
 
-## Actuellement, je travaille sur...
+* **Encheres Immo** : Une [plateforme d'enchère](https://encheres-immo.com/) immobilière, propulsée par Phoenix. En alternance avec [OpenClassrooms](https://openclassrooms.com/)
 
-🏡 [Encheres-Immo](https://encheres-immo.com/) : plateforme d'enchères interactives, permettant aux vendeurs et aux acheteurs d'effectuer leurs transactions immobilières en ligne. Depuis novembre 2020 je travaille comme dev full stack sur le projet, en alternance avec OpenClassrooms. Nous utilisons Elixir et Phoenix LiveView pour offrir une expérience utilisateur moderne couplé à une grande stabilité.
+* **Game Dev Alliance** : Une association de game dev réalisant des [vidéos Youtube](https://www.youtube.com/channel/UCCjlo6Ihet_T3X6bKLJzPsA), des [tutoriels participatifs](https://fairedesjeux.fr/) et modérant un [serveur Discord](https://discord.gg/RrBppaj).
 
-🎮 [Game Dev Alliance](https://gamedevalliance.fr/) : une des plus grande communauté de créateurs de jeux vidéo amateurs en France. Co-fondé avec des amis en 2018, je participe à la création des différents sites web tels que [FaireDesJeux.fr](https://fairedesjeux.fr), à la modération du [wiki](https://wiki.gamedevalliance.fr/) et de notre [serveur Discord](https://discord.gg/RrBppaj), ainsi qu'à l'écriture des vidéos pour notre [chaîne Youtube](https://www.youtube.com/user/FoxFiesta40).
+* Quelques side projects parlant de fringues ou d'écologie
 
-🌞 [PseudoEcologie.org](https://pseudoecologie.org) : site participatif de vulgarisation scientifique sur les problématiques écologiques. Le projet est encore un embryon mais vous pouvez en suivre [les avancées sur Github](https://github.com/PseudoEcologie/PseudoEcologie.org).
+Je n'aime pas vraiment les réseaux sociaux, mais vous pouvez m'envoyer un [mail](mailto:goulven.clech@protonmail.com) ou jeter un oeil au travail de mes amis : [Erika](https://github.com/Princesseuh), [Coralie](https://github.com/coraliedubreuil"), [Aurélien](https://github.com/aureliendossantos) et [Xavier](https://github.com/xvw).
 
-📝 [Goulven-Clech.dev](https://goulven-clech.dev/) : mon site personnel sur lequel (j'essaie) d'écrire régulièrement des articles sur mon travail et mes passions.
-
-
-## Vous pouvez me retrouver...
-
-Sur [mon site perso](https://goulven-clech.dev/), [Twitter](https://twitter.com/GoulvenClech) et [LinkedIn](https://www.linkedin.com/in/goulvenc/).
-
-Enfin, n'hésitez pas à jeter un oeil aux profils de mes copains : [Erika](https://github.com/Princesseuh), [Coralie](https://github.com/coraliedubreuil), [Aurélien](https://github.com/aureliendossantos) et [Xavier](https://github.com/xvw).
-
-A très bientôt !
+[[Read this in English / Legu ĉi tion en Esperanto](https://goulven-clech.dev)]
