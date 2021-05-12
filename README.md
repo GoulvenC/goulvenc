@@ -10,6 +10,6 @@ Je travaille actuellement sur :
 
 * Quelques side projects parlant de fringues ou d'écologie
 
-Je n'aime pas vraiment les réseaux sociaux, mais vous pouvez m'envoyer un [mail](mailto:goulven.clech@protonmail.com) ou jeter un oeil au travail de mes amis : [Erika](https://github.com/Princesseuh), [Coralie](https://github.com/coraliedubreuil"), [Aurélien](https://github.com/aureliendossantos) et [Xavier](https://github.com/xvw).
+Je n'aime pas vraiment les réseaux sociaux, mais vous pouvez m'envoyer un [mail](mailto:goulven.clech@protonmail.com) ou jeter un oeil au travail de mes amis : [Erika](https://github.com/Princesseuh), [Aurélien](https://github.com/aureliendossantos) et [Xavier](https://github.com/xvw).
 
 [[Read this in English / Legu ĉi tion en Esperanto](https://goulven-clech.dev)]
