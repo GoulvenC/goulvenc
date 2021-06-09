@@ -1,6 +1,6 @@
 # Salut 👋
 
-Je suis Goulven CLEC'H, un développeur full stack vivant à Toulouse, en France. Intéressé par la programmation fonctionelle, Vue JS et Linux.
+Je suis Goulven CLEC'H, un développeur full stack vivant à Toulouse, en France. Intéressé par la programmation fonctionelle, Elixir/Phoenix et Linux.
 
 Je travaille actuellement sur :
 
